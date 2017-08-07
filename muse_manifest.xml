@@ -1,0 +1,114 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.bpservicesmexico.com" resolutions="1x" timestamp="1492727422572">
+  <folder name="css">
+    <file name="site_global.css" crc="4183132349"/>
+    <file name="master_a-master.css" crc="307196958" ref="streaming:index:renta-de-equipos:monitoreo:privacidad"/>
+    <file name="streaming.css" crc="3907744311" ref="streaming"/>
+    <file name="index.css" crc="3946814890" ref="index"/>
+    <file name="renta-de-equipos.css" crc="3891562144" ref="renta-de-equipos"/>
+    <file name="monitoreo.css" crc="4067395826" ref="monitoreo"/>
+    <file name="privacidad.css" crc="4190652882" ref="privacidad"/>
+  </folder>
+  <folder name="assets">
+    <file name="carrera-cinepolis-teradek_2.mp4" crc="4001551806" seo="true" mt="1480370258000"/>
+    <file name="aviso-de-privacidad.docx" crc="106235712" seo="true" mt="1484701048000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="museutils.js" crc="4148063285" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="whatinput.js" crc="86476730" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:renta-de-equipos"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u7982.php" crc="185951130" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:renta-de-equipos:streaming"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+    <file name="require.js" crc="4159430777" ref="index:monitoreo:renta-de-equipos:streaming:privacidad"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4123696206" ref="index:streaming"/>
+    <file name="dynamicmicrophone_sm58_1920x1080.jpg" crc="4145022099" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:streaming:monitoreo:renta-de-equipos:privacidad"/>
+    <file name="wallpaper_cl_centralogic_1600x900.jpg" crc="105136675" seo="true" ref="index"/>
+    <file name="tlm103.jpg" crc="352476662" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo institucional.png" crc="3886167365" seo="true" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:renta-de-equipos:streaming:privacidad:monitoreo"/>
+    <file name="coach-conferencista-mexico-gente-emprendedora-por-josue-varela.jpg" crc="460990884" ref="index"/>
+    <file name="cinepolis1.jpg" crc="3792874585" ref="index"/>
+    <file name="idea.jpg" crc="387451738" ref="index"/>
+    <file name="bond-bond2-bondpro_1024x1024.jpg" crc="4218697661" seo="true" ref="index"/>
+    <file name="logo_large.png" crc="3873474418" seo="true" ref="index:streaming"/>
+    <file name="14753429_1786487078235721_2933324180687987298_o.jpg" crc="531861433" ref="index"/>
+    <file name="cinepolis.jpg" crc="269655989" ref="index"/>
+    <file name="aereo1.jpg" crc="42141801" ref="index"/>
+    <file name="espectaculo aereo1.jpg" crc="3931749031" ref="index"/>
+    <file name="aereo4.jpg" crc="285938844" ref="index"/>
+    <file name="facebook-logo-png-20.png" crc="390983957" ref="index:renta-de-equipos"/>
+    <file name="twitter-circle-icon-blue.png" crc="4091314785" ref="index:renta-de-equipos"/>
+    <file name="youtube-circle-128.png" crc="3996186691" ref="index:renta-de-equipos"/>
+    <file name="bondii_grande.png" crc="3921615268" seo="true" ref="renta-de-equipos"/>
+    <file name="sony-pmw-ex1.jpg" crc="4069577770" seo="true" ref="renta-de-equipos"/>
+    <file name="yamaha-01v96-7219.jpg" crc="509475505" seo="true" ref="renta-de-equipos"/>
+    <file name="studiolive_16_0_2-02.png" crc="4170593197" seo="true" ref="renta-de-equipos"/>
+    <file name="yx15.jpg" crc="3813296726" seo="true" ref="renta-de-equipos"/>
+    <file name="yx18s_angle_med.jpg" crc="132692553" seo="true" ref="renta-de-equipos"/>
+    <file name="sonyelectret.jpg" crc="260884269" seo="true" ref="renta-de-equipos"/>
+    <file name="shurep2r.jpg" crc="4015028189" seo="true" ref="renta-de-equipos"/>
+    <file name="speed.png" crc="3990364964" seo="true" ref="streaming"/>
+    <file name="internet_streaming1.png" crc="87891114" seo="true" ref="streaming"/>
+    <file name="antena.png" crc="4290698704" seo="true" ref="streaming"/>
+    <file name="transmission-2.png" crc="121989294" seo="true" ref="streaming"/>
+    <file name="chokis3.jpg" crc="4002870629" ref="index"/>
+    <file name="chokis1.jpg" crc="399861523" ref="index"/>
+    <file name="chokis4.jpg" crc="333169015" ref="index"/>
+    <file name="u14030-4.png" crc="349991037" ref="index"/>
+    <file name="logo institucional2.png" crc="4030790156" seo="true" ref="index:renta-de-equipos:streaming"/>
+    <file name="b-p1.png" crc="25373380" seo="true" ref="index:streaming:renta-de-equipos:monitoreo:privacidad"/>
+    <file name="maxresdefault.jpg" crc="4167632376" seo="true" ref="index"/>
+    <file name="u1156-4.png" crc="438140725" ref="index"/>
+    <file name="u1112-4.png" crc="3897640308" ref="index"/>
+    <file name="cinepolis 3.jpg" crc="452482362" ref="index"/>
+    <file name="viacrusis 2.jpg" crc="4267532244" ref="index"/>
+    <file name="viacrusis 1.jpg" crc="271559344" ref="index"/>
+    <file name="viacrusis 3.jpg" crc="4204148232" ref="index"/>
+    <file name="logo institucional3.png" crc="3886167365" seo="true" ref="privacidad"/>
+    <file name="u1236-4.png" crc="3775240826" ref="index"/>
+    <file name="u1237-4.png" crc="4089110383" ref="index"/>
+    <file name="u12199-4.png" crc="201070965" ref="index"/>
+    <file name="u12200-9.png" crc="435129223" ref="index"/>
+    <file name="u12202-4.png" crc="41141421" ref="index"/>
+    <file name="u12203-4.png" crc="440540899" ref="index"/>
+    <file name="u1159-4.png" crc="447052436" ref="index"/>
+    <file name="logo_yamahaca.gif" crc="175167881" seo="true" ref="index"/>
+    <file name="logo-atomos-crop-u32477.png" crc="48653569" ref="index"/>
+    <file name="avid-logo.png" crc="4045934664" seo="true" ref="index"/>
+    <file name="telefunken_logo.png" crc="207252931" seo="true" ref="index"/>
+    <file name="shure-logo.png" crc="78111822" seo="true" ref="index"/>
+    <file name="neumann.gif" crc="285382218" seo="true" ref="index"/>
+    <file name="u31060-4.png" crc="172609212" ref="index"/>
+    <file name="u31056-4.png" crc="329678756" ref="index"/>
+    <file name="u31053-4.png" crc="4016850481" ref="index"/>
+    <file name="u1072-4.png" crc="99698869" ref="index"/>
+    <file name="u1077-4.png" crc="4290480979" ref="index"/>
+    <file name="u1085-4.png" crc="64275730" ref="index"/>
+    <file name="u8301-4.png" crc="3886147278" ref="index"/>
+    <file name="u31050-4.png" crc="182621308" ref="index"/>
+    <file name="u30919-4.png" crc="81459738" ref="index"/>
+    <file name="9-crop-u31345.jpg" crc="4147658831" ref="index"/>
+    <file name="5-crop-u31439.jpg" crc="4073505113" ref="index"/>
+    <file name="john1-crop-u31473.jpg" crc="3988005093" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4155726374" seo="true" mt="1492724756325" redirect="true"/>
+  <file name="monitoreo.html" crc="58740736" seo="true" mt="1492547422100" redirect="true"/>
+  <file name="renta-de-equipos.html" crc="3965642902" seo="true" mt="1492724951333" redirect="true"/>
+  <file name="streaming.html" crc="51392011" seo="true" mt="1492727376032" redirect="true"/>
+  <file name="privacidad.html" crc="3895969503" seo="true" mt="1492547183499" redirect="true"/>
+</manifest>
